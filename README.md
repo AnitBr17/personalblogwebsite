@@ -39,5 +39,14 @@ Checked the performance issue.
 Test responsiveness on each devices e.g., mobile desktop and tablet.
 Verified header does not overlap on sections.
 
+5.
+Download git and node.js
+clone the repository
+cd your repo name
+npm install
+npm start
+git commit -m"initial commit"
+
+
 
 
